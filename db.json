@@ -1,14 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 6" },
-    { "id": 2, "title": "Post 7" },
-    { "id": 3, "title": "Post 83" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "securityPage": 
+    { "pageTitle": "Online security you can bank on"}
 }
