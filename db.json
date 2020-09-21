@@ -2,7 +2,7 @@
   "securityPage":{ 
       "pageTitle": "Online security you can bank on",
       "subTitle": "Download IBM® Security Trusteer Rapport®",
-       bulletPoints:[
+       "bulletPoints":[
          {"icon":"security","detail":"Protect your personal information and bank account against identity theft and fraud"},
          {"icon":"cube","detail":"Works with antivirus solutions, stopping threats they can’t protect you from"},
          {"icon":"chipset","detail":"Trusteer Rapport is effective, easy to use and won’t slow down your computer"}
