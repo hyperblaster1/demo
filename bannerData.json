@@ -1,4 +1,4 @@
-{[
+{
  "securityPage":{ 
       "pageTitle": "Online security you can bank on",
       "subTitle": "Download IBM® Security Trusteer Rapport®",
@@ -18,5 +18,4 @@
          {"icon":"shield","detail":"Download Trusteer Rapport® security software free of charge and stay safe online."}],
       "buttonContent":"Close"
   }
-]
 }
