@@ -1,4 +1,5 @@
-[{
+{
+	"securityInfo": {
 		"pageTitle": "Online security you can bank on",
 		"subTitle": "Download IBM® Security Trusteer Rapport®",
 		"bulletPoints": [{
@@ -17,7 +18,7 @@
 		"buttonContent": "Download Now",
 		"otherButtons": ["Learn More", "View Demo", "Remind me later"]
 	},
-	{
+	"importantInfo": {
 		"pageTitle": "Imporant Information",
 		"subTitle": "To look after our Customer Service staff we have introduces social distancing measure—this includes shift working and working from home. This is to reduce the number of people in our offices at any one time. If you do need to contact us please send us a secure message through Online Banking or email us at Alternatively, please contact your relationship manager. Please only contact us by phone if you cannot do what you need to through our website or if you urgently need our help. This will keep our teams available to help our most vulnerable customers.",
 		"bulletPoints": [{
@@ -31,4 +32,4 @@
 		],
 		"buttonContent": "Close"
 	}
-]
+}
