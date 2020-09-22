@@ -1,21 +1,34 @@
-{
- "securityPage":{ 
-      "pageTitle": "Online security you can bank on",
-      "subTitle": "Download IBM® Security Trusteer Rapport®",
-       "bulletPoints":[
-         {"icon":"security","detail":"Protect your personal information and bank account against identity theft and fraud"},
-         {"icon":"cube","detail":"Works with antivirus solutions, stopping threats they can’t protect you from"},
-         {"icon":"chipset","detail":"Trusteer Rapport is effective, easy to use and won’t slow down your computer"}
-         ],
-      "buttonContent":"Download Now",
-      "otherButtons":["Learn More","View Demo","Remind me later"]
-  },
-  "importantInformation":{
-      "pageTitle":"Imporant Information",
-      "subTitle": "To look after our Customer Service staff we have introduces social distancing measure—this includes shift working and working from home. This is to reduce the number of people in our offices at any one time. If you do need to contact us please send us a secure message through Online Banking or email us at Alternatively, please contact your relationship manager. Please only contact us by phone if you cannot do what you need to through our website or if you urgently need our help. This will keep our teams available to help our most vulnerable customers.",
-      "bulletPoints":[
-         {"icon":"calendar","detail":"Scheduled Maintenance . Online banking will not be available between 8.00pm and 10.00pm on Sunday 2 August, 30 August and 4 October. If you are completing a transaction when the maintenance starts it will not be processed. If you are unsure if a transaction was processed, please log in to Online Banking after the scheduled maintenance and check your online transaction status. We apologise for any inconvenience."},
-         {"icon":"shield","detail":"Download Trusteer Rapport® security software free of charge and stay safe online."}],
-      "buttonContent":"Close"
-  }
-}
+[{
+		"pageTitle": "Online security you can bank on",
+		"subTitle": "Download IBM® Security Trusteer Rapport®",
+		"bulletPoints": [{
+				"icon": "security",
+				"detail": "Protect your personal information and bank account against identity theft and fraud"
+			},
+			{
+				"icon": "cube",
+				"detail": "Works with antivirus solutions, stopping threats they can’t protect you from"
+			},
+			{
+				"icon": "chipset",
+				"detail": "Trusteer Rapport is effective, easy to use and won’t slow down your computer"
+			}
+		],
+		"buttonContent": "Download Now",
+		"otherButtons": ["Learn More", "View Demo", "Remind me later"]
+	},
+	{
+		"pageTitle": "Imporant Information",
+		"subTitle": "To look after our Customer Service staff we have introduces social distancing measure—this includes shift working and working from home. This is to reduce the number of people in our offices at any one time. If you do need to contact us please send us a secure message through Online Banking or email us at Alternatively, please contact your relationship manager. Please only contact us by phone if you cannot do what you need to through our website or if you urgently need our help. This will keep our teams available to help our most vulnerable customers.",
+		"bulletPoints": [{
+				"icon": "calendar",
+				"detail": "Scheduled Maintenance . Online banking will not be available between 8.00pm and 10.00pm on Sunday 2 August, 30 August and 4 October. If you are completing a transaction when the maintenance starts it will not be processed. If you are unsure if a transaction was processed, please log in to Online Banking after the scheduled maintenance and check your online transaction status. We apologise for any inconvenience."
+			},
+			{
+				"icon": "shield",
+				"detail": "Download Trusteer Rapport® security software free of charge and stay safe online."
+			}
+		],
+		"buttonContent": "Close"
+	}
+]
