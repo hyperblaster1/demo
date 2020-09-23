@@ -30,6 +30,7 @@
 				"detail": "Download Trusteer Rapport® security software free of charge and stay safe online."
 			}
 		],
-		"buttonContent": "Close"
+		"buttonContent": "Close",
+		"otherButtons": []
 	}
 }
